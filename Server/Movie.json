@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "Title": "UNEXPECTED PLACES",
+    "Description": "PLS SPREAD THE WORD. BIMBO ADEMOYE TV IS HERE TO GIVE YOU QUALITY MOVIES. NOTHING LESS!! WE HAVE ARRIVED",
+    "Duration": "2 hours",
+    "Genre": "Drama",
+    "thumbnailUrl": "https://img.youtube.com/vi/InVf3C6-Gmo/hqdefault.jpg",
+    "VideoUrl": "https://youtu.be/InVf3C6-Gmo?si=ft4wv4OQ9iyzd3JO"
+  },
+  {
+    "id": "2",
+    "Title": "LOST IN LOVE",
+    "Description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots",
+    "Duration": "2 hours",
+    "Genre": "Drama",
+    "thumbnailUrl": "https://img.youtube.com/vi/zZDtpNCzbLg/hqdefault.jpg",
+    "VideoUrl": "https://youtu.be/zZDtpNCzbLg?si=bXOwVm58vJCwbkDI"
+  },
+  {
+    "id": "3",
+    "Title": "SHADOW OF THE PAST",
+    "Description": "It is a long established fact that a reader will be distracted by the readable content",
+    "Duration": "3 hours",
+    "Genre": "Drama",
+    "thumbnailUrl": "https://img.youtube.com/vi/IazOGs6JY80/hqdefault.jpg",
+    "VideoUrl": "https://youtu.be/IazOGs6JY80?si=3sekc_8WclWrM1EE"
+  },
+  {
+    "id": "4",
+    "Title": "VILLAGE SUGAR",
+    "Description": " look like readable English. Many desktop publishing packages and web page editors now use Lorem",
+    "Duration": "4 hours",
+    "Genre": "Drama",
+    "thumbnailUrl": "https://img.youtube.com/vi/nQpBkSAKmMU/hqdefault.jpg",
+    "VideoUrl": "https://youtu.be/nQpBkSAKmMU?si=2lM_kTOt0O7cLs3F"
+  },
+  {
+    "id": "5",
+    "Title": "RATATA THE JUNGLE LORD",
+    "Description": " But I must explain to you how all this mistaken idea of denouncing pleasure and praising",
+    "Duration": "40 mins",
+    "Genre": "Drama",
+    "thumbnailUrl": "https://img.youtube.com/vi/-ydEbnyAABk/hqdefault.jpg",
+    "VideoUrl": "https://youtu.be/-ydEbnyAABk?si=SqIa0wvLtnvHJHGx"
+  },
+  {
+    "id": 6,
+    "Title": "UNEXPECTED PLACES",
+    "Description": "PLS SPREAD THE WORD. BIMBO ADEMOYE TV IS HERE TO GIVE YOU QUALITY MOVIES. NOTHING LESS!! WE HAVE ARRIVED",
+    "Duration": "2 hours",
+    "Genre": "Drama",
+    "thumbnailUrl": "https://img.youtube.com/vi/InVf3C6-Gmo/hqdefault.jpg",
+    "VideoUrl": "https://youtu.be/InVf3C6-Gmo?si=ft4wv4OQ9iyzd3JO"
+  },
+  {
+    "id": "7",
+    "Title": "LOST IN LOVE",
+    "Description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots",
+    "Duration": "2 hours",
+    "Genre": "Drama",
+    "thumbnailUrl": "https://img.youtube.com/vi/zZDtpNCzbLg/hqdefault.jpg",
+    "VideoUrl": "https://youtu.be/zZDtpNCzbLg?si=bXOwVm58vJCwbkDI"
+  },
+  {
+    "id": "8",
+    "Title": "SHADOW OF THE PAST",
+    "Description": "It is a long established fact that a reader will be distracted by the readable content",
+    "Duration": "3 hours",
+    "Genre": "Drama",
+    "thumbnailUrl": "https://img.youtube.com/vi/IazOGs6JY80/hqdefault.jpg",
+    "VideoUrl": "https://youtu.be/IazOGs6JY80?si=3sekc_8WclWrM1EE"
+  },
+  {
+    "id": "9",
+    "Title": "VILLAGE SUGAR",
+    "Description": " look like readable English. Many desktop publishing packages and web page editors now use Lorem",
+    "Duration": "4 hours",
+    "Genre": "Drama",
+    "thumbnailUrl": "https://img.youtube.com/vi/nQpBkSAKmMU/hqdefault.jpg",
+    "VideoUrl": "https://youtu.be/nQpBkSAKmMU?si=2lM_kTOt0O7cLs3F"
+  },
+  {
+    "id": "10",
+    "Title": "RATATA THE JUNGLE LORD",
+    "Description": " But I must explain to you how all this mistaken idea of denouncing pleasure and praising",
+    "Duration": "40 mins",
+    "Genre": "Drama",
+    "thumbnailUrl": "https://img.youtube.com/vi/-ydEbnyAABk/hqdefault.jpg",
+    "VideoUrl": "https://youtu.be/-ydEbnyAABk?si=SqIa0wvLtnvHJHGx"
+  },
+  {
+    "id": 11,
+    "Title": "UNEXPECTED PLACES",
+    "Description": "PLS SPREAD THE WORD. BIMBO ADEMOYE TV IS HERE TO GIVE YOU QUALITY MOVIES. NOTHING LESS!! WE HAVE ARRIVED",
+    "Duration": "2 hours",
+    "Genre": "Drama",
+    "thumbnailUrl": "https://img.youtube.com/vi/InVf3C6-Gmo/hqdefault.jpg",
+    "VideoUrl": "https://youtu.be/InVf3C6-Gmo?si=ft4wv4OQ9iyzd3JO"
+  },
+  {
+    "id": "12",
+    "Title": "LOST IN LOVE",
+    "Description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots",
+    "Duration": "2 hours",
+    "Genre": "Drama",
+    "thumbnailUrl": "https://img.youtube.com/vi/zZDtpNCzbLg/hqdefault.jpg",
+    "VideoUrl": "https://youtu.be/zZDtpNCzbLg?si=bXOwVm58vJCwbkDI"
+  },
+  {
+    "id": "13",
+    "Title": "SHADOW OF THE PAST",
+    "Description": "It is a long established fact that a reader will be distracted by the readable content",
+    "Duration": "3 hours",
+    "Genre": "Drama",
+    "thumbnailUrl": "https://img.youtube.com/vi/IazOGs6JY80/hqdefault.jpg",
+    "VideoUrl": "https://youtu.be/IazOGs6JY80?si=3sekc_8WclWrM1EE"
+  },
+  {
+    "id": "14",
+    "Title": "VILLAGE SUGAR",
+    "Description": " look like readable English. Many desktop publishing packages and web page editors now use Lorem",
+    "Duration": "4 hours",
+    "Genre": "Drama",
+    "thumbnailUrl": "https://img.youtube.com/vi/nQpBkSAKmMU/hqdefault.jpg",
+    "VideoUrl": "https://youtu.be/nQpBkSAKmMU?si=2lM_kTOt0O7cLs3F"
+  },
+  {
+    "id": "15",
+    "Title": "RATATA THE JUNGLE LORD",
+    "Description": " But I must explain to you how all this mistaken idea of denouncing pleasure and praising",
+    "Duration": "40 mins",
+    "Genre": "Drama",
+    "thumbnailUrl": "https://img.youtube.com/vi/-ydEbnyAABk/hqdefault.jpg",
+    "VideoUrl": "https://youtu.be/-ydEbnyAABk?si=SqIa0wvLtnvHJHGx"
+  }, 
+  {
+    "id": 16,
+    "Title": "UNEXPECTED PLACES",
+    "Description": "PLS SPREAD THE WORD. BIMBO ADEMOYE TV IS HERE TO GIVE YOU QUALITY MOVIES. NOTHING LESS!! WE HAVE ARRIVED",
+    "Duration": "2 hours",
+    "Genre": "Drama",
+    "thumbnailUrl": "https://img.youtube.com/vi/InVf3C6-Gmo/hqdefault.jpg",
+    "VideoUrl": "https://youtu.be/InVf3C6-Gmo?si=ft4wv4OQ9iyzd3JO"
+  },
+  {
+    "id": "17",
+    "Title": "LOST IN LOVE",
+    "Description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots",
+    "Duration": "2 hours",
+    "Genre": "Drama",
+    "thumbnailUrl": "https://img.youtube.com/vi/zZDtpNCzbLg/hqdefault.jpg",
+    "VideoUrl": "https://youtu.be/zZDtpNCzbLg?si=bXOwVm58vJCwbkDI"
+  },
+  {
+    "id": "18",
+    "Title": "SHADOW OF THE PAST",
+    "Description": "It is a long established fact that a reader will be distracted by the readable content",
+    "Duration": "3 hours",
+    "Genre": "Drama",
+    "thumbnailUrl": "https://img.youtube.com/vi/IazOGs6JY80/hqdefault.jpg",
+    "VideoUrl": "https://youtu.be/IazOGs6JY80?si=3sekc_8WclWrM1EE"
+  },
+  {
+    "id": "19",
+    "Title": "VILLAGE SUGAR",
+    "Description": " look like readable English. Many desktop publishing packages and web page editors now use Lorem",
+    "Duration": "4 hours",
+    "Genre": "Drama",
+    "thumbnailUrl": "https://img.youtube.com/vi/nQpBkSAKmMU/hqdefault.jpg",
+    "VideoUrl": "https://youtu.be/nQpBkSAKmMU?si=2lM_kTOt0O7cLs3F"
+  },
+  {
+    "id": "20",
+    "Title": "RATATA THE JUNGLE LORD",
+    "Description": " But I must explain to you how all this mistaken idea of denouncing pleasure and praising",
+    "Duration": "40 mins",
+    "Genre": "Drama",
+    "thumbnailUrl": "https://img.youtube.com/vi/-ydEbnyAABk/hqdefault.jpg",
+    "VideoUrl": "https://youtu.be/-ydEbnyAABk?si=SqIa0wvLtnvHJHGx"
+  }
+]
