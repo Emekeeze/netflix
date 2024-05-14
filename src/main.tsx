@@ -16,7 +16,7 @@ const router = createBrowserRouter(
             <Route path="/Login"  element={<LoginPage />}/>
             <Route path="/Plans"  element={<PlansPage />}/>
             <Route path="/Browse"  element={<BrowsePage />}/>
-            <Route path="/Browse/watch"  element={<WatchPage />}/>
+            <Route path="/Browse/watch/:id" element={<WatchPage />} />
 
 
 

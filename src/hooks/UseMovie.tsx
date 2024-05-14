@@ -14,7 +14,7 @@ interface Movie {
     Duration: string;
     Genre: string;
     thumbnailUrl: string;
-    videoUrl: string;
+    VideoUrl: string;
     
 }
 

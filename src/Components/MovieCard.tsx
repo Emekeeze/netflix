@@ -12,11 +12,13 @@ interface MovieCardProps {
     
 }
 
-function MovieCard({ title, description, id, duration, genre, thumbnailUrl }: MovieCardProps) {
+function MovieCard(  { title, description, id, duration, genre, thumbnailUrl }: MovieCardProps) {
+  
+    lastElementRef
   const navigate = useNavigate();
 
     return (
-        <div className="group bg-zinc-900 col-span relative h-[12vw">
+        <div className="group bg-zinc-900 col-span relative h-[12vw}" ref={lastElementRef}>
             <img
                 src={thumbnailUrl}
                 alt="Movie"

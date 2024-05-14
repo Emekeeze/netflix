@@ -9,8 +9,13 @@ app.get('/', (req, res) => {
 });
 
 app.get('/Movie/List', (req, res) => {
-  res.json(Movie); // Send the movie data as JSON
+  const offset = parseInt(req.query.offset);
+  const from = offset;
+  const to = from + 12;
+  const moviesubset = Movie.slice(from, to);
+  return res.json({ movies: moviesubset, count: Movie.length });
 });
+
 app.get('/Movie/:id', (req, res) => {
   const id = req.params.id;
   const movie = Movie.find(m => m.id === id);
